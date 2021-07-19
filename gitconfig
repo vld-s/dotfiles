@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vladimir.son@outlook.com
+	name = Vladimir Son
